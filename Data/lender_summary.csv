@@ -1,0 +1,6 @@
+lender_name,total_disbursed,active_loans,closed_loans,default_loans,overdue_loans,total_collection,avg_interest_rate
+HDFC Bank,25350000,57,30,8,81,16152207.48,17.92
+Bajaj Finserv,20550000,64,26,8,79,12817497.59,17.19
+Tata Capital,21100000,60,30,8,74,13681853.64,17.24
+Aditya Birla Finance,28850000,62,43,10,82,18661527.83,16.9
+L&T Finance,23100000,65,25,4,79,15107362.14,17.8
